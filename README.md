@@ -1,3 +1,8 @@
 # ImageRecognition_OpenCV
 Recognizing set-point temperature via raspberry pi based on OpenCV 
-![Main Window](Image/1.png)![Main Window](Image/2.png)![Main Window](Image/3.png)![Main Window](Image/4.png)![Main Window](Image/5.png)
+## Flow
+
+![Process flow](Image/0.png).
+
+![Process flow](Image/01.png)
+
