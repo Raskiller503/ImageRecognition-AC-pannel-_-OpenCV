@@ -5,7 +5,7 @@ Recognizing set-point temperature via Raspberry Pi based on OpenCV
 The image recognition process follows these steps:
 
 <p align="center">
-  <img src="Image/0.png" width="200" height='300' alt="Process Flow">
+  <img src="Image/0.png" width="300" height='400' alt="Process Flow">
 </p>
 
 1. Start
