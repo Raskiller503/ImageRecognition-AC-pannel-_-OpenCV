@@ -348,9 +348,9 @@ digital="".join(result)
 ########## broker info #############
 broker_address = "broker.emqx.io"
 ClientID='#########'
-user='emqx'
-password='public'
-topic='raspberry/Set_point'
+user='########'
+password='##########'
+topic='#####'
 port = 1883
 
 def main(folder_path):
