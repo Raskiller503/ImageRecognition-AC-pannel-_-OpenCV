@@ -371,4 +371,4 @@ def main(folder_path):
     publish.single(topic, payload=paylord, hostname='broker.emqx.io')
 
 if __name__ == "__main__":
-    main("E:/Set_point/a")  # Put your directory here.import cv2
+    main("E:/Set_point/a") 
