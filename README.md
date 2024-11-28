@@ -23,7 +23,7 @@ The image recognition process follows these steps:
 
 ## Example Images
 <p align="center">
-  <img src="Image/01.png" width="45%" alt="Example 2">
+  <img src="Image/01.png" width="100%" alt="Example 2">
 </p>
 
 ## Reference
